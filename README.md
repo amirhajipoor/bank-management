@@ -22,7 +22,7 @@ to start just copy this repo git origin and enjoy it :)
 
 **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/simple-bank-management.git
+   git clone https://github.com/amirhajipoor/simple-bank-management.git
    ```
 
 ## This project is licensed under the MIT License.
